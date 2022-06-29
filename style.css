@@ -1,56 +1,49 @@
-#bus{
+#bus {
   position: relative;
   z-index: 2;
   top: 200px;
 }
-#busimg{
+#busimg {
   position: relative;
   z-index: 2;
 }
-#kim{
+#kim {
   position: absolute;
   top: 80px;
-  left: 80px;
+  left: 1700px;
 }
-#lea{
+#lea {
   position: absolute;
   top: 80px;
   left: 275px;
-
 }
-#lily{
+#lily {
   position: absolute;
   top: 83px;
   left: 500px;
-
 }
-#mimi{
+#mimi {
   position: absolute;
   top: 80px;
   left: 680px;
-
 }
-#roy{
+#roy {
   position: absolute;
   top: 85px;
   left: 910px;
-
 }
-#bob{
+#bob {
   position: absolute;
   top: 95px;
   left: 1115px;
-
 }
-#joan{
+#joan {
   position: absolute;
   top: 70px;
   left: 1280px;
-
 }
-#baby{
+#baby {
   position: absolute;
   top: 60px;
   left: 1515px;
-
 }
